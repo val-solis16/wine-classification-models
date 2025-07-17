@@ -21,7 +21,7 @@ Incluye:
 ---
 
 **Tecnologías:** Python, Scikit-learn, Google Colab  
-**Licencia:** MIT
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 
 Autora: Valeria Solís Monge
 
