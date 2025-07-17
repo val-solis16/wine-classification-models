@@ -22,6 +22,7 @@ Incluye:
 
 **Tecnologías:** Python, Scikit-learn, Google Colab  
 **Licencia:** MIT
+
 Autora: Valeria Solís Monge
 
 Contacto: [valsolis1601@gmail.com] | [www.linkedin.com/in/valeria-solis-monge-411514325]
